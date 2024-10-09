@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ngorhzee
-- 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning flutter
+- 👀 I’m a mobile application developer with Expertise in flutter
+- 
+- 🌱 I’m currently learning Java for back-end development
 - 💞️ I’m looking to collaborate on jobs
 - 📫 How to reach me ngoziamolo02@gmail.com
 
